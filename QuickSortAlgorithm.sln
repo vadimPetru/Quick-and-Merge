@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSortAlgorithm", "QuickSortAlgorithm\QuickSortAlgorithm.csproj", "{945078ED-9670-4F14-A997-BC28A8CFBA9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortAlgorithm", "MergeSortAlgorithm\MergeSortAlgorithm.csproj", "{03A89F42-B2D1-4603-A329-6E4E83040EFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{945078ED-9670-4F14-A997-BC28A8CFBA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945078ED-9670-4F14-A997-BC28A8CFBA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945078ED-9670-4F14-A997-BC28A8CFBA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945078ED-9670-4F14-A997-BC28A8CFBA9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A89F42-B2D1-4603-A329-6E4E83040EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A89F42-B2D1-4603-A329-6E4E83040EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A89F42-B2D1-4603-A329-6E4E83040EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A89F42-B2D1-4603-A329-6E4E83040EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08906D8E-C23B-40F7-A38E-CD99C83177AA}
+	EndGlobalSection
+EndGlobal
